@@ -1,5 +1,7 @@
 # CoinDesk Bitcoin Price Index API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gabmontes/node-coindesk-api.svg)](https://greenkeeper.io/)
+
 Simple module to query the CoinDesk Bitcoin Price Index API
 
 ## Usage
