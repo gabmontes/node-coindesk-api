@@ -24,7 +24,6 @@ coindesk.getCurrentPrice().then(function (data) {
 - `getSupportedCurrencies()`: Returns all supported currencies.
 - `getHistoricalClosePrices(options)`: Returns historical prices where `options` is an object with optional properties:
   - `index`: `USD` or `CNY`.
-  - `index`: `USD` or `CNY`.
   - `currency`: any valid currency sting (see above).
   - `start`, `end`: `Date` objects
   - `yesterday`: boolean to shorten the query.
